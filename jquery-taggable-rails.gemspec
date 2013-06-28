@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["harakirisoul@gmail.com"]
   spec.description   = %q{jquery-taggable-rails is simple javascript to make tags.}
   spec.summary       = %q{jquery-taggable-rails is simple javascript to make tags.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tbaba/jquery-taggable-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
