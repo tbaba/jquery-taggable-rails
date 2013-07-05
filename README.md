@@ -1,6 +1,6 @@
-# Jquery::Taggable::Rails
+# jquery-taggable-rails
 
-TODO: Write a gem description
+This gem provides easy-to-use taggable input form.
 
 ## Installation
 
@@ -11,10 +11,6 @@ Add this line to your application's Gemfile:
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install jquery-taggable-rails
 
 ## Usage
 
